@@ -81,6 +81,10 @@ header .banner-text hr {
    border-color: rgba(150, 150, 150, .1);
 }
 
+.social-icons a {
+   color: #fff;
+}
+
 /* header social links */
 header .social {
    margin: 24px 0;
@@ -93,8 +97,8 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a { color: #1f81d1; }
+header .social li a:hover { color: #40c518; }
 
 /* scrolldown link */
 header .scrolldown a {
